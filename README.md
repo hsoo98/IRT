@@ -1,4 +1,4 @@
 # IRT
 Codes for collaborative projects
 
-1) Treg_deg
+1) Tfr-deg
